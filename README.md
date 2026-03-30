@@ -44,24 +44,21 @@ me.say_hi()
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**AI / ML / Data**
+**Currently Learning**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </div>
@@ -84,22 +81,30 @@ me.say_hi()
 ## 🗺️ Learning Roadmap
 
 ```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOUNDATION ✅ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  [✅] Python Fundamentals
-  [✅] C Programming Basics
-  [✅] Java Basics
-  [✅] Data Structures & Algorithms (ongoing)
+  [✅] C — Arrays, Pointers, Functions
+  [✅] Java — OOP Concepts (Classes, Inheritance, Polymorphism)
+  [✅] Programming Logic & Problem Solving Mindset
 
-  [🔄] NumPy, Pandas, Matplotlib          ← Currently Here
-  [🔄] Machine Learning with Scikit-Learn ← Currently Here
+NOW — 2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [🔄] Python — Syntax, Functions, Lists, Dicts  ← Started
+  [🔄] Python — OOP & File Handling
+  [🔄] NumPy & Pandas for Data
+  [🔄] Matplotlib & Seaborn for Visualization
+
+2026 Q3 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  [⏳] Machine Learning — Scikit-Learn
+  [⏳] First Kaggle Competition Submission
+  [⏳] 3 Real ML Projects on GitHub
+
+2026 Q4 & BEYOND ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   [⏳] Deep Learning — TensorFlow / PyTorch
-  [⏳] NLP — Natural Language Processing
-  [⏳] Computer Vision
-  [⏳] End-to-End ML Projects with Deployment (Flask / Streamlit)
+  [⏳] NLP & Computer Vision
+  [⏳] Deploy ML apps with Streamlit / Flask
   [⏳] Open Source Contributions
   [⏳] First Internship 🎯
 ```
@@ -155,4 +160,3 @@ me.say_hi()
 **⭐ If you find my work helpful, give it a star! Let's grow together. ⭐**
 
 </div>
-
